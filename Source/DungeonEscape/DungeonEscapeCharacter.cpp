@@ -127,6 +127,9 @@ void ADungeonEscapeCharacter::Interact()
 				}
 			}
 		}
+		else {
+			UE_LOG(LogTemp, Display, TEXT("No Key Item Found"));
+		}
 	}
 	else {
 		UE_LOG(LogTemp, Display, TEXT("No Actor Hit"));
