@@ -1,4 +1,4 @@
-# UE5_DungeonEscape
+# Dungeon Escape (Unreal Engine)
 
 ## Overview
 This project is a **first-person puzzle game** built in Unreal Engine where players must interact with objects to escape a dungeon.  
